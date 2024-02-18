@@ -26,7 +26,7 @@ P盘文件路径 = ''
 集_奖励块状态 = ''
 集_当前高度 = '0'
 app_directory = ''
-soft_name = 'spacemesh一机多挂 v1.5.4 作者: 很高兴 推特: hengaoxing1023'
+soft_name = 'spacemesh一机多挂 v1.0.0 作者: 很高兴 推特: hengaoxing1023'
 
 class CommandExecutionException(Exception):
     def __init__(self, command: str, exit_code: int) -> None:
