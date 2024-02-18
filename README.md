@@ -1,2 +1,2 @@
 # spacemesh_assistant
-教程稍后添加
+软件使用教程: https://www.youtube.com/watch?v=ABZgqCG0xBc
